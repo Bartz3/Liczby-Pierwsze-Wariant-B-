@@ -1,0 +1,1 @@
+Ilosc liczb pierwszych: 78498
