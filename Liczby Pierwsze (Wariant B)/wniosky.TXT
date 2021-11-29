@@ -1,0 +1,15 @@
+Funckja iteracyjna.
+Dane (przedziały od-do)	Ilość LP:		Liczba operacji dziel i zwyciężaj:	Liczba operacji funkcji znajdującej liczby pierwsze:
+6-19	 				5				111									22
+2-1000    				168				117									5 288
+2-10000  				1229			114									117 527
+2-100000     	 		9592			114									2 745 694
+2-1000000    			78498			114									67 740 404
+
+Funkcja rekurencyjna.
+Dane (przedziały od-do)	Ilość LP:		Liczba operacji dziel i zwyciężaj:	Liczba operacji funkcji znajdującej liczby pierwsze:
+6-19	 				5				111									1
+2-1000    				168				117									1
+2-10000  				1229			114									1
+2-100000     	 		9592			114									1
+2-1000000    			78498			114									1
